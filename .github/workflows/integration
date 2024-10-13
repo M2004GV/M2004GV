@@ -1,0 +1,29 @@
+name: Update Profile and Notify
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          echo "### Last Updated: $(date)" >> README.md
+          git config --local user.email "you@example.com"
+          git config --local user.name "Your Name"
+          git add README.md
+          git commit -m "Update README with latest date"
+          git push
+
+      - name: Send Notification to Slack
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          curl -X POST -H 'Content-type: application/json' --data '{"text":"Profile updated successfully!"}' $SLACK_WEBHOOK_URL

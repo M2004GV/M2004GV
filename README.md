@@ -27,18 +27,11 @@ A simple Java application with a Swing-based UI for managing client data, demons
 #### Tools & Platforms
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<br/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 
 ### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<br/>
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M2004GV&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
+![Mateus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M2004GV&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=M2004GV&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M2004GV&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 

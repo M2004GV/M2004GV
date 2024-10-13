@@ -20,9 +20,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=M2004GV&theme=merko&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=M2004GV&theme=merko&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=M2004GV&theme=merko&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=M2004GV&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=M2004GV&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=M2004GV&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 

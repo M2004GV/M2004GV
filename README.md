@@ -6,10 +6,10 @@
 - 💻 Currently diving into **Back-End Development** in Java and building **Web Applications**.
 
 ### 🚀 Featured Projects
-#### [ADIMB](https://github.com/M2004GV/ADIMB)
+#### [ADIMB]
 A platform for efficient gym management, automating processes like student registration, payment tracking, and performance monitoring using Java and MySQL.
 
-#### [Client Registration App](https://github.com/M2004GV/ClientRegistration)
+#### [Client Registration App](https://github.com/M2004GV/cadastro_cliente)
 A simple Java application with a Swing-based UI for managing client data, demonstrating my skills in GUI development and backend integration.
 
 ### 🌐 Connect with Me

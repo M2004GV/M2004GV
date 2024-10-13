@@ -1,0 +1,28 @@
+name: Deploy to Netlify
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Build Project
+        run: |
+          npm install
+          npm run build  # adjust this command to fit your build process
+
+      - name: Deploy to Netlify
+        uses: nwtgck/actions-netlify@v1.0.2
+        with:
+          publish-dir: ./public  # replace with the directory containing your site
+          production-deploy: true
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          netlify-auth-token: ${{ secrets.NETLIFY_AUTH_TOKEN }}  # add this secret in your GitHub repository settings
+          netlify-site-id: ${{ secrets.NETLIFY_SITE_ID }}  # add your site ID as a secret

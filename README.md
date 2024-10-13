@@ -6,6 +6,6 @@
 🧑‍💻 Currently learning back-end in Java and web applications. <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M2004GV)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M2004GV&hide_progress=true)
 
 

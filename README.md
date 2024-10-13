@@ -6,6 +6,6 @@
 🧑‍💻 Currently learning back-end in Java and web applications. <br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M2004GV&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M2004GV&hide_progress=false)
 
 

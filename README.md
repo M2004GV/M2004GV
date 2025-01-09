@@ -35,7 +35,9 @@ A simple Java application with a Swing-based UI for managing client data, demons
 
 ### 📊 Stats
 ![Mateus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M2004GV&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=M2004GV&theme=github_dark&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M2004GV&hide_progress=true&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)
 
 [![](https://visitcount.itsvg.in/api?id=M2004GV&icon=0&color=0)](https://visitcount.itsvg.in)

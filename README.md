@@ -13,7 +13,7 @@
 
 ### 🌟 Featured Projects
 
-#### [ADIMB]
+#### ADIMB
 ![ADIMB Screenshot]
 A platform for efficient gym management, automating processes like student registration, payment tracking, and performance monitoring using **Java** and **MySQL**.
 

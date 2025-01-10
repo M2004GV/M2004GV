@@ -14,11 +14,11 @@
 ### 🌟 Featured Projects
 
 #### [ADIMB](https://github.com/M2004GV/ADIMB)
-![ADIMB Screenshot](https://via.placeholder.com/400x200)  
+![ADIMB Screenshot]
 A platform for efficient gym management, automating processes like student registration, payment tracking, and performance monitoring using **Java** and **MySQL**.
 
 #### [Client Registration App](https://github.com/M2004GV/cadastro_cliente)
-![Client Registration App](https://via.placeholder.com/400x200)  
+![Client Registration App]  
 A simple Java application with a Swing-based UI for managing client data, demonstrating skills in **GUI development** and **backend integration**.
 
 ---

@@ -1,17 +1,14 @@
-name: Generate Snake Animation
+name: Update README
 on:
   schedule:
     - cron: "0 0 * * *"
 jobs:
-  generate:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v2
+      - uses: actions/checkout@v3
+      - uses: lowlighter/metrics@v3
         with:
-          github_user_name: M2004GV
-          outputs: dist/snake.svg
-      - name: Push to GitHub
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          branch: output
-          force: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          template: classic
+          base: header, activity, community, repositories, metadata

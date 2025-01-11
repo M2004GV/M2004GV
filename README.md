@@ -60,5 +60,5 @@ A Java application with a Swing-based UI, showcasing **GUI development** and **b
   </a>
 </div>  
 
-![Snake Animation](https://github.com/M2004GV/M2004GV/blob/output/github-contribution-grid-snake.gif) 
+    ![Snake Animation](https://github.com/M2004GV/M2004GV/blob/output/github-contribution-grid-snake.gif) 
 

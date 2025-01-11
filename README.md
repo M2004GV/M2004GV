@@ -7,7 +7,7 @@
 
 ### 🛠️ What I’m Working On
 - Developing a **gym management platform** using Java and MySQL.
-- Exploring new technologies like Vue.js and Django to enhance my full-stack development skills.
+- Exploring new technologies like Django to enhance my back-end development skills.
 
 ---
 

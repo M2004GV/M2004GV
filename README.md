@@ -1,6 +1,4 @@
-# 🌟 Hey there! I'm Mateus Garcia 🌟  
-
-![Snake Animation](https://github.com/M2004GV/M2004GV/blob/output/github-contribution-grid-snake.gif)  
+# 🌟 Hey there! I'm Mateus Garcia 🌟 
 
 ## 👨‍💻 About Me  
 
@@ -62,4 +60,5 @@ A Java application with a Swing-based UI, showcasing **GUI development** and **b
   </a>
 </div>  
 
----
+![Snake Animation](https://github.com/M2004GV/M2004GV/blob/output/github-contribution-grid-snake.gif) 
+

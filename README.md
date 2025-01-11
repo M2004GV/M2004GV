@@ -1,5 +1,7 @@
 ## 🌟 Hey there! I'm Mateus Garcia 🌟
 
+# ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+
 ### 👨‍💻 About Me
 - 🎓 **Computer Science Undergraduate** at [State University of Rio Grande do Norte](https://portal.uern.br/), Natal.
 - 🚀 Passionate about creating impactful software and solving real-world problems.

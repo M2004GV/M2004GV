@@ -1,5 +1,9 @@
 # 🌟 Hey there! I'm Mateus Garcia 🌟 
 
+<div align="center">
+  <img src="https://github.com/M2004GV/M2004GV/blob/output/github-contribution-grid-snake.gif" alt="Snake Animation" />
+</div>
+
 ## 👨‍💻 About Me  
 
 - 🎓 **Computer Science Undergraduate** at [State University of Rio Grande do Norte](https://portal.uern.br/), Natal.  
@@ -58,7 +62,4 @@ A Java application with a Swing-based UI, showcasing **GUI development** and **b
   <a href="https://linkedin.com/in/mateusgarciadesenvolvedor">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
-</div>  
-
-    ![Snake Animation](https://github.com/M2004GV/M2004GV/blob/output/github-contribution-grid-snake.gif) 
-
+</div>

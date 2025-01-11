@@ -1,22 +1,16 @@
 name: Generate Snake Animation
-
 on:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake Animation
-        uses: Platane/snk@v2
+      - uses: Platane/snk@v2
         with:
           github_user_name: M2004GV
-          outputs: dist/output.svg
-          color_snake: "#FF5733"  # Cor da cobra
-          color_dots: "#33FF57"   # Cor dos pontos
-      - name: Push Snake Animation
+          outputs: dist/snake.svg
+      - name: Push to GitHub
         uses: ad-m/github-push-action@v0.6.0
         with:
           branch: output

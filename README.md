@@ -25,7 +25,7 @@
 ### **[Client Registration App](https://github.com/M2004GV/cadastro_cliente)**  
 A Java application with a **Swing-based UI**, demonstrating strong **GUI development** and **back-end integration** skills.
 
-🔗 [Explore the Client Registration App here](https://github.com/M2004GV/cadastro_cliente)
+🔗 [Explore the Client Registration here](https://github.com/M2004GV/cadastro_cliente)
 
 </br>
 

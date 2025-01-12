@@ -1,5 +1,7 @@
 # 🌟 Hey there! I'm Mateus Garcia 🌟
 
+---
+
 ## 👨‍💻 About Me  
 
 - 🎓 **Computer Science Undergraduate** at [State University of Rio Grande do Norte](https://portal.uern.br/), Natal.  
@@ -71,3 +73,6 @@ Let's connect and share knowledge! Feel free to reach out to me via the links be
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+
+---
+

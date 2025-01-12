@@ -22,6 +22,8 @@ jobs:
           grid_opacity: "0.1"      # Transparência da grade (0 para invisível, 1 para totalmente opaco)
           grid_size: 4             # Tamanho da grade
           grid_step: 4             # Distância entre as linhas
+          # Impedir a criação do arquivo gif
+          generate_gif: false      # Evita a geração do arquivo .gif
 
       - name: Push to GitHub
         uses: ad-m/github-push-action@v0.6.0

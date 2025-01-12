@@ -23,6 +23,7 @@ A Java application with a **Swing-based UI**, demonstrating strong **GUI develop
 
 ---
 
+</br>
 ## ⚡ Skills & Tools  
 
 I work with a variety of technologies to bring ideas to life:
@@ -41,7 +42,6 @@ I work with a variety of technologies to bring ideas to life:
 ---
 
 </br>
-
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -52,6 +52,9 @@ I work with a variety of technologies to bring ideas to life:
 
 ---
 
+</br>
+</br>
+</br>
 ## 🌐 Connect with Me  
 
 Let's connect and share knowledge! Feel free to reach out to me via the links below:

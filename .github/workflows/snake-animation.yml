@@ -15,8 +15,12 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
-          github_user_name: M2004GV # Substitua pelo seu nome de usuário
+          github_user_name: M2004GV
+          grid_size: 50
           outputs: dist/snake.svg
+          color_snake: "#FF5733"
+          color_dots: "#FFC300"
+
 
       - name: Push to GitHub
         uses: ad-m/github-push-action@v0.6.0

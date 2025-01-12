@@ -60,5 +60,3 @@ A Java application with a Swing-based UI, showcasing **GUI development** and **b
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
-![Snake Animation](https://github.com/M2004GV/M2004GV/blob/output/snake.svg)

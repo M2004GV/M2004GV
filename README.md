@@ -4,13 +4,17 @@
 
 - 🎓 **Computer Science Undergraduate** at [State University of Rio Grande do Norte](https://portal.uern.br/), Natal.  
 - 🚀 Passionate about **back-end development**, **data analysis**, and creating software.  
-- 💻 Currently exploring **Java applications** and **Django** to strengthen my back-end skills and expand my knowledge in **PostgreSQL**.  
+- 💻 Currently exploring **Java applications** and **Django** to strengthen my back-end skills and expand my knowledge in **PostgreSQL**.
+
+</br>
 
 ---
 
 ## 💼 What I’m Working On  
 
 - 🌱 Expanding my knowledge in **PostgreSQL**, **Django**, and exploring more tools to enhance my skills.
+
+</br>
 
 ---
 
@@ -21,9 +25,10 @@ A Java application with a **Swing-based UI**, demonstrating strong **GUI develop
 
 🔗 [Explore the Client Registration App here](https://github.com/M2004GV/cadastro_cliente)
 
+</br>
+
 ---
 
-</br>
 ## ⚡ Skills & Tools  
 
 I work with a variety of technologies to bring ideas to life:
@@ -39,9 +44,10 @@ I work with a variety of technologies to bring ideas to life:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="C++" width="50" />
 </div>  
 
+</br>
+
 ---
 
-</br>
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -49,12 +55,10 @@ I work with a variety of technologies to bring ideas to life:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M2004GV&theme=github_dark&hide_border=true" alt="GitHub Streak" height="150" />
 </div>  
 
+</br>
 
 ---
 
-</br>
-</br>
-</br>
 ## 🌐 Connect with Me  
 
 Let's connect and share knowledge! Feel free to reach out to me via the links below:

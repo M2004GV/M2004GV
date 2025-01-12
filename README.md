@@ -12,7 +12,7 @@
 
 - 🌱 Expanding my knowledge in **PostgreSQL**, **Django**, and exploring more tools to enhance my skills.
 
-
+---
 
 ## 🌟 Featured Projects  
 
@@ -40,6 +40,7 @@ I work with a variety of technologies to bring ideas to life:
 
 ---
 
+</br>
 
 ## 📊 GitHub Stats  
 

@@ -1,32 +1,31 @@
-# 🌟 Hey there! I'm Mateus Garcia 🌟 
-
+# 🌟 Hey there! I'm Mateus Garcia 🌟
 
 ## 👨‍💻 About Me  
 
 - 🎓 **Computer Science Undergraduate** at [State University of Rio Grande do Norte](https://portal.uern.br/), Natal.  
-- 🚀 Passionate about **back-end development**, **data analysis**, and building impactful software.  
-- 💻 Currently diving into **Java applications** and learning **Django** to enhance my back-end skills.  
+- 🚀 Passionate about **back-end development**, **data analysis**, and creating software.  
+- 💻 Currently exploring **Java applications** and **Django** to strengthen my back-end skills and expand my knowledge in **PostgreSQL**.  
 
 ---
 
 ## 💼 What I’m Working On  
 
-- 🏋️‍♂️ **Gym Management Platform**: A Java-based platform to automate processes like student registration, payment tracking, and performance monitoring.  
-- 🌱 Expanding my knowledge in **PostgreSQL**, **Django**. 
+- 🌱 Expanding my knowledge in **PostgreSQL**, **Django**, and exploring more tools to enhance my skills.
 
 ---
 
 ## 🌟 Featured Projects  
 
-### **ADIMB**  
-A platform for efficient gym management, streamlining administrative tasks using **Java** and **MySQL**.  
-
 ### **[Client Registration App](https://github.com/M2004GV/cadastro_cliente)**  
-A Java application with a Swing-based UI, showcasing **GUI development** and **backend integration**.  
+A Java application with a **Swing-based UI**, demonstrating strong **GUI development** and **back-end integration** skills.
+
+🔗 [Explore the Client Registration App here](https://github.com/M2004GV/cadastro_cliente)
 
 ---
 
 ## ⚡ Skills & Tools  
+
+I work with a variety of technologies to bring ideas to life:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" />
@@ -51,6 +50,8 @@ A Java application with a Swing-based UI, showcasing **GUI development** and **b
 ---
 
 ## 🌐 Connect with Me  
+
+Let's connect and share knowledge! Feel free to reach out to me via the links below:
 
 <div align="center">
   <a href="https://instagram.com/garciamateus285">

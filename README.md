@@ -12,7 +12,7 @@
 
 - 🌱 Expanding my knowledge in **PostgreSQL**, **Django**, and exploring more tools to enhance my skills.
 
----
+
 
 ## 🌟 Featured Projects  
 
@@ -40,12 +40,14 @@ I work with a variety of technologies to bring ideas to life:
 
 ---
 
+
 ## 📊 GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M2004GV&theme=github_dark&hide_border=true&count_private=true&show_icons=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M2004GV&theme=github_dark&hide_border=true" alt="GitHub Streak" height="150" />
 </div>  
+
 
 ---
 

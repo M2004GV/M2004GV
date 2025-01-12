@@ -15,12 +15,13 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
-          github_user_name: M2004GV
-          grid_size: 50
+          github_user_name: M2004GV # Substitua pelo seu nome de usuário
           outputs: dist/snake.svg
-          color_snake: "#FF5733"
-          color_dots: "#FFC300"
-
+          # Ajustando a suavidade da grade
+          grid_color: "#000000"    # Cor da grade
+          grid_opacity: "0.1"      # Transparência da grade (0 para invisível, 1 para totalmente opaco)
+          grid_size: 4             # Tamanho da grade
+          grid_step: 4             # Distância entre as linhas
 
       - name: Push to GitHub
         uses: ad-m/github-push-action@v0.6.0

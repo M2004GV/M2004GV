@@ -76,7 +76,3 @@ Let's connect and share knowledge! Feel free to reach out to me via the links be
 
 ---
 
-- [x] #739
-- [ ] [LINK] (https://github.com/M2004GV/)
-- [ ] Add delight to the experience when all tasks are complete :tada:
-

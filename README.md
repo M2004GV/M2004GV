@@ -1,4 +1,4 @@
-# 🌟 Hey there! I'm Mateus Garcia 🌟
+# Hey there! I'm Mateus Garcia 
 
 ---
 
@@ -6,7 +6,7 @@
 
 - 🎓 **Computer Science Undergraduate** at [State University of Rio Grande do Norte](https://portal.uern.br/), Natal.  
 - 🚀 Passionate about **back-end development**, **data analysis**, and creating software.  
-- 💻 Currently exploring **Java applications** and **Django** to strengthen my back-end skills and expand my knowledge in **PostgreSQL**.
+- 💻 Currently exploring **Django** to strengthen my back-end skills and expand my knowledge in **PostgreSQL**.
 
 </br>
 
@@ -75,4 +75,8 @@ Let's connect and share knowledge! Feel free to reach out to me via the links be
 </div>
 
 ---
+
+- [x] #739
+- [ ] https://github.com/M2004GV
+- [ ] Add delight to the experience when all tasks are complete :tada:
 

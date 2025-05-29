@@ -1,78 +1,73 @@
-# Hey there! I'm Mateus Garcia 
+ <h1>Hi, I’m Mateus Garcia 👋</h1>
+<p>
+  I’m a Computer Science undergraduate at
+  <a href="https://portal.uern.br/" target="_blank" rel="noopener">State University of Rio Grande do Norte (UERN)</a>,
+  Natal, Brazil. I’m passionate about back-end development, data analysis and building scalable software systems.
+  Currently sharpening my skills with <strong>Django</strong>, <strong>PostgreSQL</strong> and cloud-native practices.
+</p>
 
----
+<hr/>
 
-## 👨‍💻 About Me  
+<h2>🚀 What I’m Working On</h2>
+<ul>
+  <li>Designing a <strong>RESTful API</strong> with Django REST Framework and PostgreSQL</li>
+  <li>Building CI/CD pipelines with <strong>GitHub Actions</strong> and <strong>Docker</strong></li>
+  <li>Experimenting with data visualization libraries (Plotly, Matplotlib) for analytics</li>
+</ul>
 
-- 🎓 **Computer Science Undergraduate** at [State University of Rio Grande do Norte](https://portal.uern.br/), Natal.  
-- 🚀 Passionate about **back-end development**, **data analysis**, and creating software.  
-- 💻 Currently exploring **Django** to strengthen my back-end skills and expand my knowledge in **PostgreSQL**.
+<hr/>
 
-</br>
+<h2>🌟 Featured Projects</h2>
+<h3><a href="https://github.com/M2004GV/cadastro_cliente" target="_blank" rel="noopener">Client Registration App</a></h3>
+<p>
+  A Java desktop application with a Swing-based UI for managing customer records.
+</p>
+<ul>
+  <li>Clean MVC architecture and JDBC integration</li>
+  <li>Form validation, search/filtering and export to CSV</li>
+</ul>
 
----
+<p><em>More projects coming soon…</em></p>
 
-## 💼 What I’m Working On  
+<hr/>
 
-- 🌱 Expanding my knowledge in **PostgreSQL**, **Django**, and exploring more tools to enhance my skills.
+<h2>🛠️ Skills &amp; Tools</h2>
+<ul>
+  <li><strong>Languages:</strong> Java, Python, C++</li>
+  <li><strong>Web &amp; Databases:</strong> Django, Flask, PostgreSQL, MySQL, HTML5, CSS3, JavaScript</li>
+  <li><strong>DevOps &amp; Tooling:</strong> Git, GitHub, Docker, GitHub Actions</li>
+  <li><strong>Data &amp; Analysis:</strong> NumPy, Pandas, Matplotlib, Plotly</li>
+</ul>
 
-</br>
+<hr/>
 
----
-
-## 🌟 Featured Projects  
-
-### **[Client Registration App](https://github.com/M2004GV/cadastro_cliente)**  
-A Java application with a **Swing-based UI**, demonstrating strong **GUI development** and **back-end integration** skills.
-
-🔗 [Explore the Client Registration here](https://github.com/M2004GV/cadastro_cliente)
-
-</br>
-
----
-
-## ⚡ Skills & Tools  
-
-I work with a variety of technologies to bring ideas to life:
-
+<h2>📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="C++" width="50" />
-</div>  
-
-</br>
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M2004GV&theme=github_dark&hide_border=true&count_private=true&show_icons=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M2004GV&theme=github_dark&hide_border=true" alt="GitHub Streak" height="150" />
-</div>  
-
-</br>
-
----
-
-## 🌐 Connect with Me  
-
-Let's connect and share knowledge! Feel free to reach out to me via the links below:
-
-<div align="center">
-  <a href="https://instagram.com/garciamateus285">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/mateusgarciadesenvolvedor">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=M2004GV&theme=github_dark&hide_border=true&show_icons=true"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=M2004GV&theme=github_dark&hide_border=true"
+    alt="GitHub Streak"
+    width="48%"
+  />
 </div>
 
----
+<hr/>
 
+<h2>📫 Let’s Connect</h2>
+<div align="center">
+  <a href="www.linkedin.com/in/mateusgarciadesenvolvedor" target="_blank" rel="noopener">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Lucas%20Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  <a href="mailto:garciamateus285@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-garciamateus285@gmail.com?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</div>

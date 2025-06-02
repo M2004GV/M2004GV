@@ -11,7 +11,6 @@
 <h2>🚀 What I’m Working On</h2>
 <ul>
   <li>Designing a <strong>RESTful API</strong> with Django REST Framework and PostgreSQL</li>
-  <li>Building CI/CD pipelines with <strong>GitHub Actions</strong> and <strong>Docker</strong></li>
   <li>Experimenting with data visualization libraries (Plotly, Matplotlib) for analytics</li>
 </ul>
 

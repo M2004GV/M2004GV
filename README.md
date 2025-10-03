@@ -1,73 +1,93 @@
- <h1>Hi, I’m Mateus Garcia 👋</h1>
-<p>
-  I’m a Computer Science undergraduate at
-  <a href="https://portal.uern.br/" target="_blank" rel="noopener">State University of Rio Grande do Norte (UERN)</a>,
-  Natal, Brazil. I’m passionate about back-end development, data analysis and building scalable software systems.
-  Currently sharpening my skills with <strong>Django</strong>, <strong>PostgreSQL</strong> and cloud-native practices.
-</p>
+# Mateus Garcia, Computer Science Student & Backend Engineer
 
-<hr/>
+**Natal, RN • garciamateus285@gmail.com**  
+**LinkedIn:** https://linkedin.com/in/mateusgarciadesenvolvedor  
+**GitHub:** https://github.com/M2004GV
 
-<h2>🚀 What I’m Working On</h2>
-<ul>
-  <li>Designing a <strong>RESTful API</strong> with Django REST Framework and PostgreSQL</li>
-  <li>Experimenting with data visualization libraries (Plotly, Matplotlib) for analytics</li>
-</ul>
+---
 
-<hr/>
+# Sobre
+Sou estudante de Ciência da Computação (UERN, conclusão prevista: 2026) com foco em **desenvolvimento backend**, pipelines de dados/IA e simulações numéricas. Trabalho com Python, Django/DRF, C++ (simulações numéricas), além de ferramentas modernas de IA (FAISS, Qdrant, LLMs) e versionamento com Git. Tenho experiência em projetos de pesquisa (PIBIC/CNPq) envolvendo redes neurais biológicas simuladas (Hodgkin–Huxley) e em projetos aplicados com RAG + vector DBs.
 
-<h2>🌟 Featured Projects</h2>
-<h3><a href="https://github.com/M2004GV/cadastro_cliente" target="_blank" rel="noopener">Client Registration App</a></h3>
-<p>
-  A Java desktop application with a Swing-based UI for managing customer records.
-</p>
-<ul>
-  <li>Clean MVC architecture and JDBC integration</li>
-  <li>Form validation, search/filtering and export to CSV</li>
-</ul>
+---
 
-<p><em>More projects coming soon…</em></p>
+# Skills 
 
-<hr/>
+- **Linguagens:** Python, C++  
+- **Backend / Web:** Django, Django REST Framework, RESTful APIs, Token Authentication  
+- **IA & Vector Search:** RAG, Embeddings, FAISS, Qdrant (estudos/prática)  
+- **DevOps / Ferramentas:** Git, Docker (básico), GitHub, VS Code  
+- **DBs:** PostgreSQL, noSQL (conceitos)  
+- **Conceitos:** OOP, Data Structures, Algorithms, Microservices, Experiment Design, A/B mindset  
+- **Outros:** Streamlit (demos), Jupyter Notebooks, análises e visualização (Matplotlib, Seaborn)
 
-<h2>🛠️ Skills &amp; Tools</h2>
-<ul>
-  <li><strong>Languages:</strong> Java, Python, C++</li>
-  <li><strong>Web &amp; Databases:</strong> Django, Flask, PostgreSQL, MySQL, HTML5, CSS3, JavaScript</li>
-  <li><strong>DevOps &amp; Tooling:</strong> Git, GitHub, Docker, GitHub Actions</li>
-  <li><strong>Data &amp; Analysis:</strong> NumPy, Pandas, Matplotlib, Plotly</li>
-</ul>
+---
 
-<hr/>
+# Research — PIBIC / CNPq (2024 & 2025)
 
-<h2>📊 GitHub Stats</h2>
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=M2004GV&theme=github_dark&hide_border=true&show_icons=true"
-    alt="GitHub Stats"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=M2004GV&theme=github_dark&hide_border=true"
-    alt="GitHub Streak"
-    width="48%"
-  />
-</div>
+## PIBIC/CNPq — Simulações numéricas de plasticidade sináptica (2024)  
+**Bolsa PIBIC/CNPq — projeto 1 ano (2024).**
 
-<hr/>
+- Desenvolvi e rodei simulações com **250 neurônios excitatórios** modelados pelo **Hodgkin–Huxley**, investigando padrões de bursting em redes em desenvolvimento.  
+- Implementei e comparei mecanismos de plasticidade: **STDP clássico, Bi & Poo e Van Rossum**, adaptando e estendendo implementações de referência.  
+- Analisei a evolução das distribuições sinápticas e métricas de conectividade para caracterizar a maturação da rede.  
+- **Stack:** C++ / Python, bibliotecas científicas (NumPy, SciPy), versionamento com Git, visualizações com Matplotlib.
 
-  <h2>📫 Let’s Connect</h2>
-  <div align="center">
-    <a href="https://linkedin.com/in/mateusgarciadesenvolvedor" target="_blank" rel="noopener">
-      <img
-        src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn"
-      />
-    </a>
-    <a href="mailto:garciamateus285@gmail.com">
-      <img
-        src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        alt="Email"
-      />
-    </a>
-  </div>
+## PIBIC/CNPq — Hubs em Redes Neurais: Comparação Estrutural e Funcional (2025)  
+**Bolsa PIBIC/CNPq — projeto 1 ano (2025).**
+
+- Construção e simulação de redes com diferentes topologias (fully-connected, modular, scale-free, small-world) usando Hodgkin–Huxley (N=250).  
+- Identificação de **hubs estruturais** (degree, betweenness, eigenvector) e **hubs funcionais** (correlações entre spike trains); comparação entre topologias.  
+- Testes de resiliência via perturbações (pulsos de corrente positivos/negativos) e geração de visualizações (raster plots, mapas de conectividade, medidas de sincronização).  
+- **Stack:** C++ / Python, NetworkX, SciPy, Matplotlib, scripts de automação para rodar experimentos em batch.
+
+---
+
+# Selected Projects 
+
+## RAG Invoice Processor — Intelligent Data Extraction  
+**Tecnologias:** Python, Gemini API, FAISS, Agno, Streamlit
+
+- Pipeline end-to-end para extração de dados estruturados de PDFs (ingestão, chunking, embeddings, indexação e recuperação).  
+- Integração com LLM para extração e validação de campos-chave (ex.: CNPJ, valores, datas).  
+- Interface Streamlit para testes e visualização.  
+**Repositório:** *[`https://github.com/M2004GV/rag-document-parser`](https://github.com/M2004GV/rag-document-parser)*
+
+## RESTful Product Registration API — Django REST Framework  
+**Tecnologias:** Python, Django REST Framework, PostgreSQL, Token Auth
+
+- Endpoints CRUD para cadastro e gestão de produtos(carros); autenticação por token; validação e migrations.  
+- Tests unitários básicos e documentação rápida (Postman).  
+**Repositório:** *[`https://github.com/M2004GV/django`](https://github.com/M2004GV/django)*
+
+---
+
+# Outras contribuições & experimentos
+
+- Scripts e notebooks de análise para as simulações (raster plots, sincronização, histograma de pesos sinápticos).  
+- Experimentos com Qdrant / FAISS para busca semântica (proof-of-concept).  
+- Projetos pequenos com Dockerfile para empacotar APIs; foco em aprender fluxo de CI/CD.
+
+---
+
+# Contribuições & Open Source
+
+Aceito issues, PRs e colaboração em projetos relacionados a backend, infra leve (Docker), indexação vetorial e simulações.
+
+Se quiser colaborar: abra uma issue no repositório correspondente ou me marque no LinkedIn/GitHub para discutir ideias.
+
+---
+
+# O que procuro / disponibilidade
+
+- Procurando **estágio remunerado** ou **vaga júnior** em backend/data engineering/IA (remoto ou presencial).  
+- **Disponibilidade** para estágio de 12 semanas a partir de **11 Dezembro de 2026**.  
+- Aberto a freelas e projetos part-time que gerem experiência prática e renda em 2025.
+
+---
+
+# Contato 
+
+- **Email:** garciamateus285@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/mateusgarciadesenvolvedor  
+

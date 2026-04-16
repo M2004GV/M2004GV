@@ -1,93 +1,57 @@
-# Mateus Garcia, Computer Science Student & Backend Engineer
+# Mateus Garcia
 
-**Natal, RN • garciamateus285@gmail.com**  
-**LinkedIn:** https://linkedin.com/in/mateusgarciadesenvolvedor  
-**GitHub:** https://github.com/M2004GV
+**Computer Science Student & Backend Developer**
 
----
-
-# Sobre
-Sou estudante de Ciência da Computação (UERN, conclusão prevista: 2026) com foco em **desenvolvimento backend**, pipelines de dados/IA e simulações numéricas. Trabalho com Python, Django/DRF, C++ (simulações numéricas), além de ferramentas modernas de IA (FAISS, Qdrant, LLMs) e versionamento com Git. Tenho experiência em projetos de pesquisa (PIBIC/CNPq) envolvendo redes neurais biológicas simuladas (Hodgkin–Huxley) e em projetos aplicados com RAG + vector DBs.
+Natal, RN · [garciamateus285@gmail.com](mailto:garciamateus285@gmail.com) · [LinkedIn](https://linkedin.com/in/mateusgarciadesenvolvedor) · [GitHub](https://github.com/M2004GV)
 
 ---
 
-# Skills 
+## About
 
-- **Linguagens:** Python, C++  
-- **Backend / Web:** Django, Django REST Framework, RESTful APIs, Token Authentication  
-- **IA & Vector Search:** RAG, Embeddings, FAISS, Qdrant (estudos/prática)  
-- **DevOps / Ferramentas:** Git, Docker (básico), GitHub, VS Code  
-- **DBs:** PostgreSQL, noSQL (conceitos)  
-- **Conceitos:** OOP, Data Structures, Algorithms, Microservices, Experiment Design, A/B mindset  
-- **Outros:** Streamlit (demos), Jupyter Notebooks, análises e visualização (Matplotlib, Seaborn)
+Backend developer and Computer Science student at UERN (expected graduation: Dec 2027). Currently interning at SETHAS-RN, building and maintaining Django systems for state government programs.
 
----
+My background combines production backend work with computational research: two CNPq-funded projects involving large-scale neural network simulations in C++ and Python.
 
-# Research — PIBIC / CNPq (2024 & 2025)
+## Experience
 
-## PIBIC/CNPq — Simulações numéricas de plasticidade sináptica (2024)  
-**Bolsa PIBIC/CNPq — projeto 1 ano (2024).**
+**Backend Development Intern** · SETHAS-RN · Mar 2026 – Present
+- Developing and maintaining Django systems serving real public administration demands
+- Implementing authentication modules (account creation, secure password reset with email token flow)
+- Bug fixing and evolving legacy systems in production, with direct impact on end users
+- Writing technical documentation to support onboarding and long-term maintenance
 
-- Desenvolvi e rodei simulações com **250 neurônios excitatórios** modelados pelo **Hodgkin–Huxley**, investigando padrões de bursting em redes em desenvolvimento.  
-- Implementei e comparei mecanismos de plasticidade: **STDP clássico, Bi & Poo e Van Rossum**, adaptando e estendendo implementações de referência.  
-- Analisei a evolução das distribuições sinápticas e métricas de conectividade para caracterizar a maturação da rede.  
-- **Stack:** C++ / Python, bibliotecas científicas (NumPy, SciPy), versionamento com Git, visualizações com Matplotlib.
+## Tech Stack
 
-## PIBIC/CNPq — Hubs em Redes Neurais: Comparação Estrutural e Funcional (2025)  
-**Bolsa PIBIC/CNPq — projeto 1 ano (2025).**
+| Area | Tools |
+|---|---|
+| **Languages** | Python, C++ |
+| **Backend** | Django, Django REST Framework, RESTful APIs, Token Auth |
+| **Databases** | PostgreSQL, MySQL |
+| **AI / Search** | RAG, FAISS, Embeddings, LLMs (Gemini API) |
+| **Infra & Tools** | Docker, Git, GitHub CLI, Postman |
+| **Testing** | pytest, Rest Assured (Java) |
 
-- Construção e simulação de redes com diferentes topologias (fully-connected, modular, scale-free, small-world) usando Hodgkin–Huxley (N=250).  
-- Identificação de **hubs estruturais** (degree, betweenness, eigenvector) e **hubs funcionais** (correlações entre spike trains); comparação entre topologias.  
-- Testes de resiliência via perturbações (pulsos de corrente positivos/negativos) e geração de visualizações (raster plots, mapas de conectividade, medidas de sincronização).  
-- **Stack:** C++ / Python, NetworkX, SciPy, Matplotlib, scripts de automação para rodar experimentos em batch.
+## Research — PIBIC/CNPq
 
----
+**Synaptic Plasticity Simulations (2024)** · C++, Python, NumPy, SciPy, Matplotlib
+> Ran large-scale simulations (250 Hodgkin–Huxley neurons) to study bursting patterns in developing networks. Implemented and compared STDP rules (Classical, Bi & Poo, Van Rossum) across 20+ parametric experiments.
 
-# Selected Projects 
+**Hubs in Neural Networks: Structural vs. Functional Comparison (2025)** · C++, Python, NetworkX, SciPy
+> Built and simulated networks with fully-connected, modular, scale-free, and small-world topologies. Identified structural and functional hubs; tested resilience via directed perturbations with automated batch experiments.
 
-## RAG Invoice Processor — Intelligent Data Extraction  
-**Tecnologias:** Python, Gemini API, FAISS, Agno, Streamlit
+## Projects
 
-- Pipeline end-to-end para extração de dados estruturados de PDFs (ingestão, chunking, embeddings, indexação e recuperação).  
-- Integração com LLM para extração e validação de campos-chave (ex.: CNPJ, valores, datas).  
-- Interface Streamlit para testes e visualização.  
-**Repositório:** *[`https://github.com/M2004GV/rag-document-parser`](https://github.com/M2004GV/rag-document-parser)*
+**[RAG Invoice Processor](https://github.com/M2004GV/rag-document-parser)** · Python, Gemini API, FAISS, Agno, Streamlit
+End-to-end pipeline for extracting structured data from PDFs: ingestion, chunking, embedding generation, similarity search, and LLM-powered field extraction. Includes a Streamlit interface for testing.
 
-## RESTful Product Registration API — Django REST Framework  
-**Tecnologias:** Python, Django REST Framework, PostgreSQL, Token Auth
+**[RESTful Product API](https://github.com/M2004GV/django)** · Python, Django REST Framework, PostgreSQL
+CRUD endpoints with token authentication, data validation, and permission control. Unit tests covering 90%+ of endpoints with pytest. Auto-generated docs via Swagger (drf-spectacular).
 
-- Endpoints CRUD para cadastro e gestão de produtos(carros); autenticação por token; validação e migrations.  
-- Tests unitários básicos e documentação rápida (Postman).  
-**Repositório:** *[`https://github.com/M2004GV/django`](https://github.com/M2004GV/django)*
+**API Testing Suite** · Java, Rest Assured, JUnit
+Automated tests for REST endpoints: status codes, JSON payloads, schema validation, and auth flows.
 
----
+## What I'm Looking For
 
-# Outras contribuições & experimentos
+Open to junior backend / data engineering / AI positions (remote or on-site). Also available for freelance and part-time projects that build real-world experience.
 
-- Scripts e notebooks de análise para as simulações (raster plots, sincronização, histograma de pesos sinápticos).  
-- Experimentos com Qdrant / FAISS para busca semântica (proof-of-concept).  
-- Projetos pequenos com Dockerfile para empacotar APIs; foco em aprender fluxo de CI/CD.
-
----
-
-# Contribuições & Open Source
-
-Aceito issues, PRs e colaboração em projetos relacionados a backend, infra leve (Docker), indexação vetorial e simulações.
-
-Se quiser colaborar: abra uma issue no repositório correspondente ou me marque no LinkedIn/GitHub para discutir ideias.
-
----
-
-# O que procuro / disponibilidade
-
-- Procurando **estágio remunerado** ou **vaga júnior** em backend/data engineering/IA (remoto ou presencial).  
-- **Disponibilidade** para estágio de 12 semanas a partir de **11 Dezembro de 2026**.  
-- Aberto a freelas e projetos part-time que gerem experiência prática e renda em 2025.
-
----
-
-# Contato 
-
-- **Email:** garciamateus285@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/mateusgarciadesenvolvedor  
-
+Feel free to open an issue on any repo or reach out via [LinkedIn](https://linkedin.com/in/mateusgarciadesenvolvedor).

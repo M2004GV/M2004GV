@@ -1,4 +1,4 @@
-# Mateus Garcia
+# Mateus Garcia de Souza Vieira
 
 **Computer Science Student & Backend Developer**
 

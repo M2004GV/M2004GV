@@ -36,8 +36,8 @@ My background combines production backend work with computational research: two 
 **Synaptic Plasticity Simulations (2024)** · C++, Python, NumPy, SciPy, Matplotlib
 > Ran large-scale simulations (250 Hodgkin–Huxley neurons) to study bursting patterns in developing networks. Implemented and compared STDP rules (Classical, Bi & Poo, Van Rossum) across 20+ parametric experiments.
 
-**Hubs in Neural Networks: Structural vs. Functional Comparison (2025)** · C++, Python, NetworkX, SciPy
-> Built and simulated networks with fully-connected, modular, scale-free, and small-world topologies. Identified structural and functional hubs; tested resilience via directed perturbations with automated batch experiments.
+**Hubs in Neural Networks: Structural vs. Functional Comparison (2025)** · C++, Python, NetworkX, SciPy - Present
+> Built and simulated networks with fully-connected, modular, scale-free, and small-world topologies. Identified structural and functional hubs; tested resilience via directed perturbations.
 
 ## Projects
 
